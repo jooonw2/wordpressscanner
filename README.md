@@ -47,7 +47,7 @@ Ejecuta el script desde la línea de comandos proporcionando la URL del sitio we
 Para ejecutar el script, pasa la URL de un sitio WordPress como argumento:
 
 ```bash
-./wordpress_security_scanner.sh example.com
+./wordpressscanner.sh example.com
 ```
 
 Este comando realizará lo siguiente:
